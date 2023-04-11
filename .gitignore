@@ -4,5 +4,6 @@ test.txt
 train.txt
 val.txt
 requirement.md
-lenet-5-mnist-from-scratch-numpy/
 test.ipynb
+lenet-5-mnist-from-scratch-numpy/
+data/
